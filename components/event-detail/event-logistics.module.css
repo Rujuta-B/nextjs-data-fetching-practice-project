@@ -6,7 +6,7 @@
   max-width: 50rem;
   width: 80%;
   margin: -3rem auto;
-  color: #ffffff;
+  color: #d5eeeb;
   display: flex;
   justify-content: space-between;
   gap: 1rem;
@@ -19,7 +19,7 @@
   height: 10rem;
   border-radius: 50%;
   overflow: hidden;
-  border: 5px solid rgb(125, 120, 120);
+  border: 5px solid white;
 }
 
 .image img {
